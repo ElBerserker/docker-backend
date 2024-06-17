@@ -13,6 +13,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copiar todo el contenido del directorio actual al contenedor
 COPY . .
 
+EXPOSE 5000
 # Exponer el puerto en el que se ejecutará la aplicación Flask
 
 # Comando para ejecutar la aplicación
