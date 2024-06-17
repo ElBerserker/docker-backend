@@ -1,0 +1,10 @@
+Flask==2.0.3
+flask-cors==3.0.10
+osmnx==1.1.2
+networkx==2.6.3
+geopy==2.2.0
+Werkzeug==2.0.2
+scikit-learn==1.0.2
+numpy==1.21.6
+scipy==1.7.3
+
